@@ -1,0 +1,301 @@
+﻿id_venta,mes,region,vendedor,categoria,canal,cantidad,precio_unit,descuento,monto_bruto
+1001,Junio,Norte,Laura Diaz,Laptop,Online,4,769.94,0.0,3079.76
+1002,Enero,Oeste,Carlos Rivas,Laptop,Online,4,894.32,0.0,3577.28
+1003,Abril,Oeste,Laura Diaz,Tablet,Online,13,375.14,15.0,4876.82
+1004,Enero,Este,Camila Vega,Laptop,Online,6,1010.65,,6063.9
+1005,Enero,Norte,Laura Diaz,Teclado,,10,78.27,0.0,782.7
+1006,Enero,Sur,Pedro Soto,Monitor,Online,7,278.74,15.0,1951.18
+1007,Junio,Este,Carlos Rivas,Auriculares,Mayorista,11,110.21,15.0,1212.31
+1008,Junio,Centro,Javier Munoz,Tablet,Online,4,377.19,20.0,1508.76
+1009,Marzo,Centro,Pedro Soto,Auriculares,Mayorista,8,120.99,15.0,967.92
+1010,Marzo,Centro,Camila Vega,Mouse,,7,34.82,0.0,243.74
+1011,Junio,Norte,Maria Lopez,Tablet,Mayorista,7,348.34,5.0,2438.38
+1012,Junio,Centro,Carlos Rivas,Laptop,Mayorista,15,905.07,0.0,13576.05
+1013,Enero,Sur,Laura Diaz,Teclado,Mayorista,13,59.89,0.0,778.57
+1014,Febrero,Centro,Javier Munoz,Tablet,Online,9,394.05,10.0,3546.45
+1015,Marzo,Norte,Pedro Soto,Monitor,Online,4,348.35,0.0,1393.4
+1016,Febrero,Centro,Roberto Fuentes,Tablet,Mayorista,3,305.93,20.0,917.79
+1017,Marzo,Sur,Camila Vega,Auriculares,Mayorista,11,119.92,10.0,1319.12
+1018,Mayo,Norte,Pedro Soto,Mouse,Mayorista,4,29.85,15.0,119.4
+1019,Mayo,Este,Pedro Soto,Laptop,Tienda fisica,11,887.54,10.0,9762.94
+1020,Abril,Oeste,Camila Vega,Tablet,Online,2,284.41,5.0,568.82
+1021,Junio,Norte,Carlos Rivas,Auriculares,Online,7,136.95,20.0,958.65
+1022,Abril,Oeste,Maria Lopez,Tablet,Tienda fisica,8,303.98,0.0,2431.84
+1023,Mayo,Norte,Ana Torres,Auriculares,Online,15,138.17,0.0,2072.55
+1024,Febrero,Oeste,Camila Vega,Laptop,Online,7,812.67,20.0,5688.69
+1025,Junio,Centro,Roberto Fuentes,Auriculares,Online,4,116.24,0.0,464.96
+1026,Mayo,Norte,,Laptop,Mayorista,15,1012.42,0.0,15186.3
+1027,Enero,Norte,Pedro Soto,Mouse,Tienda fisica,2,42.93,10.0,85.86
+1028,Mayo,Oeste,Javier Munoz,Auriculares,Tienda fisica,4,134.15,0.0,536.6
+1029,Marzo,Este,Carlos Rivas,Teclado,Online,8,71.4,10.0,571.2
+1030,Marzo,Este,Carlos Rivas,Tablet,Online,6,308.48,5.0,1850.88
+1031,Junio,Centro,Laura Diaz,Laptop,Mayorista,2,1041.74,0.0,2083.48
+1032,Marzo,Sur,Pedro Soto,Monitor,Mayorista,6,270.12,15.0,1620.72
+1033,Junio,Norte,Camila Vega,Laptop,Tienda fisica,1,723.71,20.0,723.71
+1034,Junio,Oeste,Camila Vega,Mouse,Mayorista,1,31.32,15.0,31.32
+1035,Febrero,Centro,Camila Vega,Mouse,Online,1,34.07,,34.07
+1036,Enero,Sur,Javier Munoz,Auriculares,Mayorista,15,143.99,10.0,2159.85
+1037,Abril,Sur,Ana Torres,Tablet,Online,12,390.33,20.0,4683.96
+1038,Febrero,Sur,Carlos Rivas,Monitor,Tienda fisica,14,250.99,5.0,3513.86
+1039,Febrero,Este,Ana Torres,Tablet,Mayorista,4,323.0,0.0,1292.0
+1040,Junio,Centro,Javier Munoz,Teclado,Online,2,78.05,0.0,156.1
+1041,Abril,Norte,Javier Munoz,Mouse,Mayorista,13,34.14,10.0,443.82
+1042,Enero,Sur,Camila Vega,Monitor,Online,9,353.87,10.0,3184.83
+1043,Abril,Sur,Carlos Rivas,Monitor,Mayorista,15,284.8,0.0,4272.0
+1044,Junio,Centro,Camila Vega,Monitor,Tienda fisica,7,327.38,10.0,2291.66
+1045,Mayo,Sur,Laura Diaz,Mouse,Tienda fisica,9,41.42,0.0,372.78
+1046,Abril,Este,Roberto Fuentes,Teclado,Mayorista,4,68.54,20.0,274.16
+1047,Mayo,Norte,Javier Munoz,Monitor,Online,14,356.93,0.0,4997.02
+1048,Febrero,Norte,Roberto Fuentes,Laptop,Mayorista,14,983.79,5.0,13773.06
+1049,Abril,Oeste,Pedro Soto,Teclado,Online,11,73.13,20.0,804.43
+1050,Junio,Sur,Roberto Fuentes,Tablet,Online,9,303.9,20.0,2735.1
+1051,Mayo,Centro,Javier Munoz,Mouse,Tienda fisica,10,41.16,10.0,411.6
+1052,Abril,Sur,Roberto Fuentes,Auriculares,Tienda fisica,13,113.87,15.0,1480.31
+1053,Abril,Sur,Carlos Rivas,Monitor,Mayorista,5,273.7,0.0,1368.5
+1054,Junio,Sur,Maria Lopez,Teclado,Mayorista,4,56.92,5.0,227.68
+1055,Mayo,Oeste,Ana Torres,Teclado,Mayorista,7,67.65,0.0,473.55
+1056,Junio,Oeste,,Mouse,Tienda fisica,4,33.57,5.0,134.28
+1057,Febrero,Oeste,Roberto Fuentes,Auriculares,Online,10,127.64,5.0,1276.4
+1058,Abril,Oeste,Maria Lopez,Tablet,Online,5,320.53,0.0,1602.65
+1059,Marzo,Este,Carlos Rivas,Teclado,Tienda fisica,1,74.72,0.0,74.72
+1060,Febrero,Norte,Pedro Soto,Laptop,Online,10,774.31,0.0,7743.1
+1061,Marzo,Oeste,Javier Munoz,Auriculares,Online,10,131.15,15.0,1311.5
+1062,Mayo,Este,Ana Torres,Laptop,Tienda fisica,10,952.8,5.0,9528.0
+1063,Junio,Sur,Laura Diaz,Laptop,Mayorista,10,996.38,20.0,9963.8
+1064,Marzo,Oeste,Carlos Rivas,Auriculares,Mayorista,11,118.38,20.0,1302.18
+1065,Abril,Este,Maria Lopez,Auriculares,Tienda fisica,3,137.22,15.0,411.66
+1066,Abril,Oeste,Laura Diaz,Teclado,Tienda fisica,14,61.63,0.0,862.82
+1067,Junio,Centro,Camila Vega,Mouse,Tienda fisica,1,36.67,0.0,36.67
+1068,Mayo,Este,Laura Diaz,Monitor,Mayorista,1,306.43,0.0,306.43
+1069,Abril,Sur,Roberto Fuentes,Auriculares,Tienda fisica,13,102.83,0.0,1336.79
+1070,Abril,Centro,Javier Munoz,Monitor,Tienda fisica,12,310.35,0.0,3724.2
+1071,Febrero,Norte,Javier Munoz,Auriculares,Online,12,127.72,20.0,1532.64
+1072,Mayo,Este,Laura Diaz,Auriculares,Online,14,111.32,0.0,1558.48
+1073,Enero,Sur,Ana Torres,Monitor,Mayorista,5,327.4,0.0,1637.0
+1074,Marzo,Norte,Roberto Fuentes,Mouse,Tienda fisica,8,34.52,0.0,276.16
+1075,Abril,Norte,Carlos Rivas,Teclado,Mayorista,11,73.1,0.0,804.1
+1076,Mayo,Sur,Camila Vega,Laptop,Mayorista,10,991.35,0.0,9913.5
+1077,Abril,Este,Laura Diaz,Mouse,Mayorista,10,30.59,15.0,305.9
+1078,Enero,Este,,Auriculares,Online,3,128.5,0.0,385.5
+1079,Febrero,Este,,Laptop,Mayorista,5,961.52,5.0,4807.6
+1080,Febrero,Centro,Camila Vega,Auriculares,Online,9,112.79,0.0,1015.11
+1081,Mayo,Sur,Laura Diaz,Monitor,Tienda fisica,2,300.87,0.0,601.74
+1082,Enero,Oeste,,Teclado,Tienda fisica,12,63.63,0.0,763.56
+1083,Enero,Centro,Laura Diaz,Mouse,Mayorista,1,40.43,0.0,40.43
+1084,Abril,Sur,Roberto Fuentes,Mouse,Online,8,34.62,0.0,276.96
+1085,Abril,Oeste,,Auriculares,Mayorista,7,141.05,10.0,987.35
+1086,Mayo,Norte,,Teclado,Mayorista,14,69.36,5.0,971.04
+1087,Abril,Oeste,Ana Torres,Auriculares,Online,5,128.36,0.0,641.8
+1088,Junio,Centro,Maria Lopez,Tablet,Tienda fisica,9,273.75,5.0,2463.75
+1089,Junio,Oeste,Maria Lopez,Laptop,Tienda fisica,15,966.15,10.0,14492.25
+1090,Abril,Oeste,Maria Lopez,Tablet,Tienda fisica,4,390.0,10.0,1560.0
+1091,Mayo,Oeste,Laura Diaz,Monitor,Online,5,330.72,20.0,1653.6
+1092,Mayo,Sur,Roberto Fuentes,Teclado,Tienda fisica,6,69.6,10.0,417.6
+1093,Abril,Sur,Pedro Soto,Mouse,Tienda fisica,1,34.2,5.0,34.2
+1094,Enero,Sur,Maria Lopez,Teclado,Mayorista,10,63.88,0.0,638.8
+1095,Junio,Oeste,,Laptop,Tienda fisica,14,945.13,0.0,13231.82
+1096,Abril,Centro,Carlos Rivas,Auriculares,Tienda fisica,14,134.37,10.0,1881.18
+1097,Enero,Oeste,Carlos Rivas,Mouse,Online,11,39.33,0.0,432.63
+1098,Junio,Norte,,Auriculares,Tienda fisica,3,135.31,0.0,405.93
+1099,Febrero,Este,Pedro Soto,Teclado,Mayorista,7,69.96,20.0,489.72
+1100,Junio,Oeste,Pedro Soto,Mouse,Tienda fisica,15,37.91,0.0,568.65
+1101,Marzo,Norte,Maria Lopez,Teclado,Online,8,79.83,10.0,638.64
+1102,Febrero,Oeste,Camila Vega,Monitor,Tienda fisica,2,274.02,10.0,548.04
+1103,Abril,Norte,Laura Diaz,Auriculares,Online,10,143.52,,1435.2
+1104,Febrero,Oeste,Javier Munoz,Monitor,Online,11,268.56,0.0,2954.16
+1105,Enero,Sur,Ana Torres,Auriculares,Tienda fisica,13,123.16,10.0,1601.08
+1106,Abril,Este,Maria Lopez,Auriculares,Online,3,139.75,0.0,419.25
+1107,Marzo,Este,Javier Munoz,Teclado,Online,8,80.29,0.0,642.32
+1108,Marzo,Oeste,Carlos Rivas,Mouse,Tienda fisica,1,33.45,0.0,33.45
+1109,Junio,Centro,Javier Munoz,Teclado,Online,11,61.33,0.0,674.63
+1110,Junio,Centro,Carlos Rivas,Tablet,Mayorista,14,331.43,15.0,4640.02
+1111,Abril,Norte,Carlos Rivas,Monitor,Online,4,349.42,0.0,1397.68
+1112,Mayo,Centro,Maria Lopez,Teclado,Tienda fisica,11,57.82,5.0,636.02
+1113,Abril,Este,Roberto Fuentes,Tablet,Online,14,318.42,15.0,4457.88
+1114,Marzo,Norte,Pedro Soto,Teclado,Online,14,76.68,0.0,1073.52
+1115,Marzo,Norte,Pedro Soto,Laptop,Online,13,914.46,0.0,11887.98
+1116,Febrero,Sur,Ana Torres,Monitor,Tienda fisica,14,360.65,0.0,5049.1
+1117,Enero,Norte,Javier Munoz,Tablet,Online,10,313.44,0.0,3134.4
+1118,Enero,Norte,Roberto Fuentes,Auriculares,Tienda fisica,13,119.38,10.0,1551.94
+1119,Junio,Norte,Laura Diaz,Auriculares,Tienda fisica,11,148.27,0.0,1630.97
+1120,Junio,Norte,Roberto Fuentes,Teclado,Online,15,57.35,10.0,860.25
+1121,Junio,Centro,Javier Munoz,Mouse,Tienda fisica,10,37.18,5.0,371.8
+1122,Junio,Norte,Pedro Soto,Auriculares,Tienda fisica,8,144.63,5.0,1157.04
+1123,Abril,Norte,Javier Munoz,Monitor,Mayorista,5,289.92,0.0,1449.6
+1124,Abril,Norte,Carlos Rivas,Laptop,Mayorista,12,849.2,0.0,10190.4
+1125,Enero,Este,Camila Vega,Auriculares,Tienda fisica,14,133.94,20.0,1875.16
+1126,Marzo,Este,Javier Munoz,Mouse,Online,10,36.85,0.0,368.5
+1127,Enero,Centro,Laura Diaz,Monitor,Mayorista,4,340.14,20.0,1360.56
+1128,Mayo,Centro,Laura Diaz,Laptop,,3,815.41,20.0,2446.23
+1129,Junio,Sur,Camila Vega,Mouse,Online,3,40.12,0.0,120.36
+1130,Febrero,Oeste,Javier Munoz,Monitor,Tienda fisica,12,284.13,10.0,3409.56
+1131,Junio,Centro,Carlos Rivas,Laptop,Tienda fisica,8,947.56,5.0,7580.48
+1132,Marzo,Centro,Camila Vega,Laptop,,5,953.09,10.0,4765.45
+1133,Enero,Oeste,Ana Torres,Mouse,Online,5,42.98,20.0,214.9
+1134,Junio,Norte,Camila Vega,Teclado,Online,3,65.14,15.0,195.42
+1135,Abril,Este,Ana Torres,Laptop,Tienda fisica,1,878.82,0.0,878.82
+1136,Enero,Oeste,Camila Vega,Monitor,Online,6,266.44,10.0,1598.64
+1137,Febrero,Oeste,Camila Vega,Laptop,Mayorista,7,900.65,5.0,6304.55
+1138,Mayo,Sur,Carlos Rivas,Laptop,Mayorista,9,788.43,20.0,7095.87
+1139,Enero,Sur,Maria Lopez,Tablet,Tienda fisica,4,294.21,0.0,1176.84
+1140,Mayo,Oeste,Roberto Fuentes,Teclado,Mayorista,15,78.18,15.0,1172.7
+1141,Abril,Este,Carlos Rivas,Tablet,Tienda fisica,8,352.82,,2822.56
+1142,Abril,Este,Ana Torres,Teclado,Online,6,76.87,0.0,461.22
+1143,Abril,Centro,Roberto Fuentes,Mouse,Mayorista,9,43.11,15.0,387.99
+1144,Mayo,Sur,Roberto Fuentes,Monitor,Mayorista,3,357.6,5.0,1072.8
+1145,Junio,Norte,Maria Lopez,Mouse,Online,4,39.66,5.0,158.64
+1146,Abril,Este,Javier Munoz,Teclado,Mayorista,10,56.61,15.0,566.1
+1147,Marzo,Oeste,Maria Lopez,Monitor,Tienda fisica,2,314.1,0.0,628.2
+1148,Mayo,Oeste,Carlos Rivas,Tablet,Tienda fisica,9,320.21,20.0,2881.89
+1149,Junio,Centro,Camila Vega,Laptop,Mayorista,6,728.7,0.0,4372.2
+1150,Febrero,Oeste,Maria Lopez,Tablet,Online,2,309.86,20.0,619.72
+1151,Junio,Centro,Javier Munoz,Laptop,Mayorista,3,925.56,0.0,2776.68
+1152,Abril,Sur,Ana Torres,Auriculares,Tienda fisica,6,134.47,0.0,806.82
+1153,Mayo,Oeste,Pedro Soto,Tablet,Tienda fisica,13,372.4,20.0,4841.2
+1154,Marzo,Oeste,Camila Vega,Teclado,Mayorista,9,66.14,0.0,595.26
+1155,Junio,Este,Roberto Fuentes,Laptop,Tienda fisica,9,1040.16,15.0,9361.44
+1156,Abril,Sur,Maria Lopez,Monitor,Tienda fisica,2,356.28,0.0,712.56
+1157,Abril,Oeste,Javier Munoz,Laptop,Online,7,1060.64,0.0,7424.48
+1158,Febrero,Este,Ana Torres,Tablet,Tienda fisica,15,378.21,15.0,5673.15
+1159,Enero,Centro,Ana Torres,Laptop,Tienda fisica,4,1006.39,10.0,4025.56
+1160,Marzo,Este,Carlos Rivas,Tablet,Online,4,325.74,20.0,1302.96
+1161,Mayo,Oeste,Ana Torres,Mouse,Mayorista,9,37.8,15.0,340.2
+1162,Abril,Sur,,Mouse,Mayorista,11,30.95,0.0,340.45
+1163,Enero,Centro,Camila Vega,Mouse,Tienda fisica,1,38.65,,38.65
+1164,Junio,Este,,Tablet,Mayorista,12,368.85,0.0,4426.2
+1165,Abril,Sur,Roberto Fuentes,Auriculares,,3,140.95,0.0,422.85
+1166,Febrero,Sur,Ana Torres,Laptop,Tienda fisica,15,827.93,5.0,12418.95
+1167,Marzo,Sur,Ana Torres,Monitor,Mayorista,6,278.19,20.0,1669.14
+1168,Febrero,Oeste,Roberto Fuentes,Monitor,Mayorista,8,289.11,20.0,2312.88
+1169,Mayo,Norte,Maria Lopez,Teclado,Mayorista,5,63.6,0.0,318.0
+1170,Junio,Oeste,Roberto Fuentes,Tablet,Tienda fisica,8,277.42,20.0,2219.36
+1171,Junio,Norte,Camila Vega,Laptop,Tienda fisica,9,994.87,,8953.83
+1172,Febrero,Oeste,Carlos Rivas,Laptop,Online,13,941.86,0.0,12244.18
+1173,Marzo,Oeste,Roberto Fuentes,Monitor,Online,10,262.47,0.0,2624.7
+1174,Junio,Norte,Maria Lopez,Laptop,Tienda fisica,9,854.08,10.0,7686.72
+1175,Marzo,Sur,Roberto Fuentes,Mouse,Online,2,31.65,0.0,63.3
+1176,Marzo,Norte,Javier Munoz,Auriculares,Mayorista,2,128.4,0.0,256.8
+1177,Mayo,Sur,Pedro Soto,Monitor,Online,4,338.38,,1353.52
+1178,Mayo,Este,Maria Lopez,Teclado,Mayorista,15,57.49,0.0,862.35
+1179,Mayo,Oeste,Carlos Rivas,Teclado,Online,6,71.95,5.0,431.7
+1180,Mayo,Centro,,Auriculares,Online,7,126.14,20.0,882.98
+1181,Marzo,Sur,,Tablet,Tienda fisica,9,386.55,20.0,3478.95
+1182,Junio,Este,Laura Diaz,Tablet,Mayorista,9,283.96,15.0,2555.64
+1183,Mayo,Centro,Javier Munoz,Auriculares,Mayorista,1,141.61,0.0,141.61
+1184,Febrero,Este,Camila Vega,Auriculares,Mayorista,11,103.45,15.0,1137.95
+1185,Abril,Sur,Laura Diaz,Auriculares,Tienda fisica,2,135.05,0.0,270.1
+1186,Marzo,Centro,Javier Munoz,Tablet,Mayorista,14,316.21,5.0,4426.94
+1187,Abril,Este,,Tablet,Tienda fisica,8,303.73,0.0,2429.84
+1188,Febrero,Oeste,Javier Munoz,Tablet,Mayorista,12,312.03,20.0,3744.36
+1189,Enero,Este,Carlos Rivas,Teclado,Tienda fisica,9,67.14,0.0,604.26
+1190,Junio,Oeste,Roberto Fuentes,Mouse,Tienda fisica,9,29.86,0.0,268.74
+1191,Enero,Oeste,Camila Vega,Monitor,Online,10,311.67,0.0,3116.7
+1192,Mayo,Centro,Carlos Rivas,Monitor,Online,2,292.19,20.0,584.38
+1193,Mayo,Sur,Camila Vega,Tablet,Mayorista,1,277.8,0.0,277.8
+1194,Mayo,Sur,Maria Lopez,Mouse,Tienda fisica,15,38.33,0.0,574.95
+1195,Mayo,Centro,,Monitor,Mayorista,10,281.28,20.0,2812.8
+1196,Marzo,Oeste,Ana Torres,Mouse,Mayorista,8,33.47,15.0,267.76
+1197,Abril,Norte,Maria Lopez,Mouse,Mayorista,11,39.85,20.0,438.35
+1198,Junio,Norte,Carlos Rivas,Mouse,Online,1,35.92,5.0,35.92
+1199,Junio,Centro,Ana Torres,Teclado,Mayorista,3,68.74,10.0,206.22
+1200,Abril,Este,Javier Munoz,Tablet,Mayorista,6,358.51,20.0,2151.06
+1201,Febrero,Centro,Pedro Soto,Teclado,Tienda fisica,9,63.01,0.0,567.09
+1202,Abril,Oeste,Javier Munoz,Monitor,Mayorista,15,354.9,15.0,5323.5
+1203,Marzo,Oeste,,Teclado,Tienda fisica,1,62.73,15.0,62.73
+1204,Febrero,Oeste,Laura Diaz,Tablet,Mayorista,12,306.77,0.0,3681.24
+1205,Junio,Centro,Pedro Soto,Tablet,Online,2,324.9,15.0,649.8
+1206,Abril,Centro,Roberto Fuentes,Tablet,Tienda fisica,11,297.53,0.0,3272.83
+1207,Mayo,Norte,Pedro Soto,Auriculares,Mayorista,12,136.71,0.0,1640.52
+1208,Abril,Sur,Roberto Fuentes,Laptop,,15,977.16,20.0,14657.4
+1209,Enero,Centro,Javier Munoz,Mouse,Tienda fisica,8,43.6,10.0,348.8
+1210,Marzo,Centro,Pedro Soto,Teclado,,6,59.47,5.0,356.82
+1211,Mayo,Este,Pedro Soto,Monitor,Online,10,345.81,5.0,3458.1
+1212,Febrero,Norte,Roberto Fuentes,Tablet,Tienda fisica,15,303.75,0.0,4556.25
+1213,Mayo,Este,,Monitor,Tienda fisica,11,288.21,0.0,3170.31
+1214,Mayo,Oeste,Laura Diaz,Auriculares,Mayorista,2,132.66,0.0,265.32
+1215,Abril,Oeste,Javier Munoz,Tablet,Tienda fisica,12,342.3,5.0,4107.6
+1216,Mayo,Sur,,Auriculares,Mayorista,8,127.35,0.0,1018.8
+1217,Febrero,Centro,Maria Lopez,Mouse,Online,6,41.71,5.0,250.26
+1218,Abril,Norte,Ana Torres,Mouse,Tienda fisica,3,36.94,5.0,110.82
+1219,Enero,Este,Camila Vega,Auriculares,Tienda fisica,14,102.14,,1429.96
+1220,Enero,Norte,Carlos Rivas,Mouse,Tienda fisica,1,33.77,0.0,33.77
+1221,Abril,Oeste,Roberto Fuentes,Monitor,Tienda fisica,7,255.81,15.0,1790.67
+1222,Mayo,Norte,Camila Vega,Tablet,Mayorista,3,365.17,0.0,1095.51
+1223,Junio,Oeste,Camila Vega,Auriculares,Mayorista,7,141.52,0.0,990.64
+1224,Junio,Norte,Camila Vega,Laptop,Mayorista,13,1040.82,0.0,13530.66
+1225,Junio,Oeste,Ana Torres,Mouse,Online,12,30.37,5.0,364.44
+1226,Mayo,Norte,Laura Diaz,Tablet,Online,14,389.3,10.0,5450.2
+1227,Marzo,Este,Maria Lopez,Tablet,Mayorista,9,300.29,0.0,2702.61
+1228,Junio,Sur,Camila Vega,Auriculares,Mayorista,8,104.25,0.0,834.0
+1229,Abril,Este,Camila Vega,Auriculares,Online,5,120.07,20.0,600.35
+1230,Enero,Sur,Camila Vega,Teclado,Tienda fisica,9,69.03,5.0,621.27
+1231,Enero,Oeste,Pedro Soto,Monitor,Online,5,290.25,10.0,1451.25
+1232,Junio,Centro,Pedro Soto,Auriculares,Tienda fisica,4,143.73,0.0,574.92
+1233,Enero,Sur,Roberto Fuentes,Auriculares,Online,12,131.01,0.0,1572.12
+1234,Abril,Este,Javier Munoz,Teclado,Tienda fisica,5,64.6,5.0,323.0
+1235,Marzo,Este,Javier Munoz,Tablet,Tienda fisica,1,344.0,,344.0
+1236,Junio,Centro,Camila Vega,Mouse,Tienda fisica,3,32.5,0.0,97.5
+1237,Abril,Este,Roberto Fuentes,Monitor,Tienda fisica,3,331.5,0.0,994.5
+1238,Enero,Centro,,Auriculares,Online,14,134.07,20.0,1876.98
+1239,Febrero,Norte,Ana Torres,Auriculares,Online,9,123.89,0.0,1115.01
+1240,Abril,Oeste,,Auriculares,Online,9,128.48,0.0,1156.32
+1241,Mayo,Este,Camila Vega,Laptop,Online,2,1034.64,10.0,2069.28
+1242,Abril,Este,Carlos Rivas,Monitor,Tienda fisica,7,299.74,0.0,2098.18
+1243,Junio,Norte,Ana Torres,Auriculares,Online,7,120.2,10.0,841.4
+1244,Abril,Norte,Javier Munoz,Teclado,Mayorista,14,80.57,10.0,1127.98
+1245,Marzo,Centro,Ana Torres,Teclado,Online,11,79.32,,872.52
+1246,Febrero,Este,Maria Lopez,Laptop,Mayorista,14,857.92,0.0,12010.88
+1247,Mayo,Oeste,Javier Munoz,Auriculares,Tienda fisica,13,137.51,20.0,1787.63
+1248,Enero,Este,Camila Vega,Laptop,Online,14,748.35,10.0,10476.9
+1249,Junio,Este,Laura Diaz,Laptop,Tienda fisica,8,800.07,10.0,6400.56
+1250,Mayo,Oeste,Laura Diaz,Laptop,Online,12,747.49,0.0,8969.88
+1251,Marzo,Oeste,Carlos Rivas,Monitor,Online,1,355.88,5.0,355.88
+1252,Abril,Sur,Camila Vega,Teclado,Online,1,57.58,10.0,57.58
+1253,Marzo,Oeste,Camila Vega,Laptop,Tienda fisica,13,751.3,10.0,9766.9
+1254,Abril,Sur,Maria Lopez,Auriculares,Online,5,116.45,5.0,582.25
+1255,Enero,Este,Javier Munoz,Teclado,Tienda fisica,4,73.99,5.0,295.96
+1256,Abril,Este,Javier Munoz,Laptop,Mayorista,7,995.89,0.0,6971.23
+1257,Marzo,Centro,Javier Munoz,Tablet,Mayorista,12,297.71,0.0,3572.52
+1258,Febrero,Oeste,Javier Munoz,Mouse,Tienda fisica,5,41.18,5.0,205.9
+1259,Junio,Centro,Ana Torres,Tablet,Mayorista,8,392.7,0.0,3141.6
+1260,Abril,Oeste,Maria Lopez,Auriculares,Mayorista,5,113.62,15.0,568.1
+1261,Abril,Oeste,Camila Vega,Mouse,Mayorista,9,42.68,20.0,384.12
+1262,Mayo,Este,Carlos Rivas,Auriculares,,13,113.92,15.0,1480.96
+1263,Abril,Oeste,Carlos Rivas,Monitor,Online,2,276.51,10.0,553.02
+1264,Marzo,Sur,Camila Vega,Teclado,,13,72.92,15.0,947.96
+1265,Abril,Norte,Carlos Rivas,Monitor,Online,14,355.62,0.0,4978.68
+1266,Marzo,Centro,Roberto Fuentes,Teclado,Online,8,74.02,5.0,592.16
+1267,Marzo,Norte,Carlos Rivas,Laptop,Mayorista,13,778.38,15.0,10118.94
+1268,Abril,Centro,Pedro Soto,Teclado,Tienda fisica,11,60.05,15.0,660.55
+1269,Mayo,Sur,Camila Vega,Teclado,Tienda fisica,1,73.57,0.0,73.57
+1270,Mayo,Centro,Maria Lopez,Laptop,Tienda fisica,6,789.51,0.0,4737.06
+1271,Abril,Este,Camila Vega,Mouse,Mayorista,2,34.62,20.0,69.24
+1272,Mayo,Este,Carlos Rivas,Mouse,Mayorista,3,34.13,0.0,102.39
+1273,Abril,Centro,Maria Lopez,Teclado,Mayorista,7,66.25,5.0,463.75
+1274,Febrero,Sur,Roberto Fuentes,Mouse,Tienda fisica,3,32.37,,97.11
+1275,Febrero,Norte,Pedro Soto,Teclado,Tienda fisica,9,68.39,5.0,615.51
+1276,Febrero,Oeste,Carlos Rivas,Teclado,Mayorista,1,75.94,0.0,75.94
+1277,Mayo,Sur,Roberto Fuentes,Teclado,Mayorista,9,58.19,0.0,523.71
+1278,Junio,Centro,Roberto Fuentes,Laptop,Mayorista,4,1059.02,0.0,4236.08
+1279,Marzo,Norte,Javier Munoz,Teclado,Online,8,77.75,0.0,622.0
+1280,Marzo,Centro,Camila Vega,Auriculares,Online,10,108.68,0.0,1086.8
+1281,Mayo,Centro,Maria Lopez,Monitor,Tienda fisica,12,280.45,10.0,3365.4
+1282,Abril,Norte,Ana Torres,Tablet,Tienda fisica,14,355.95,15.0,4983.3
+1283,Abril,Sur,Roberto Fuentes,Auriculares,Online,10,132.36,15.0,1323.6
+1284,Mayo,Norte,Laura Diaz,Teclado,,15,78.06,5.0,1170.9
+1285,Abril,Norte,Javier Munoz,Auriculares,Online,13,127.65,0.0,1659.45
+1286,Marzo,Este,Maria Lopez,Monitor,,14,302.8,0.0,4239.2
+1287,Enero,Oeste,Maria Lopez,Laptop,Tienda fisica,8,722.73,5.0,5781.84
+1288,Marzo,Este,Carlos Rivas,Tablet,Mayorista,6,304.05,0.0,1824.3
+1289,Junio,Este,,Auriculares,Tienda fisica,11,106.38,0.0,1170.18
+1290,Junio,Sur,Roberto Fuentes,Mouse,Online,1,39.49,20.0,39.49
+1291,Febrero,Oeste,Camila Vega,Laptop,Online,12,996.53,0.0,11958.36
+1292,Junio,Sur,Maria Lopez,Auriculares,Online,9,129.04,10.0,1161.36
+1293,Mayo,Sur,Roberto Fuentes,Teclado,Online,2,78.56,0.0,157.12
+1294,Febrero,Oeste,Pedro Soto,Monitor,Tienda fisica,11,256.27,10.0,2818.97
+1295,Marzo,Norte,Pedro Soto,Auriculares,Mayorista,10,126.46,15.0,1264.6
+1296,Abril,Sur,Carlos Rivas,Teclado,Online,8,71.84,0.0,574.72
+1297,Abril,Este,Camila Vega,Tablet,Tienda fisica,9,359.42,20.0,3234.78
+1298,Enero,Centro,Laura Diaz,Laptop,Online,1,1036.18,20.0,1036.18
+1299,Junio,Oeste,Camila Vega,Teclado,Online,11,69.2,10.0,761.2
+1300,Mayo,Sur,Javier Munoz,Tablet,Tienda fisica,10,353.19,20.0,3531.9
