@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Laptop",
+    "precio_base": 850000,
+    "categoria": "Computacion",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Monitor",
+    "precio_base": 290000,
+    "categoria": "Computacion",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Teclado",
+    "precio_base": 45000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Mouse",
+    "precio_base": 22000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Auriculares",
+    "precio_base": 68000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Webcam",
+    "precio_base": 55000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Hub USB",
+    "precio_base": 18000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  },
+  {
+    "nombre": "Disco SSD",
+    "precio_base": 75000,
+    "categoria": "Periferico",
+    "stock_minimo": 10
+  }
+]

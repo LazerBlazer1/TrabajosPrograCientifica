@@ -1,0 +1,63 @@
+fecha,producto,vendedor,region,cantidad,precio_unitario,total
+2024-12-01,Disco SSD,Matias Soto,Centro,2,75000,150000
+2024-12-02,Webcam,Valeria Rios,Oriente,2,55000,110000
+2024-12-03,Teclado,Valeria Rios,Oriente,5,45000,225000
+2024-12-04,Webcam,Matias Soto,Sur,4,55000,220000
+2024-12-05,Hub USB,Paula Mena,Sur,1,18000,18000
+2024-12-06,Monitor,Paula Mena,Centro,3,290000,870000
+2024-12-07,Laptop,Diego Parra,Norte,5,850000,4250000
+2024-12-08,Disco SSD,Camila Vega,Oriente,1,75000,75000
+2024-12-09,Monitor,Paula Mena,Sur,5,290000,1450000
+2024-12-10,Hub USB,Valeria Rios,Centro,5,18000,90000
+2024-12-11,Mouse,Paula Mena,Sur,3,22000,66000
+2024-12-12,Mouse,Diego Parra,Oriente,4,22000,88000
+2024-12-13,Hub USB,Diego Parra,Oriente,2,18000,36000
+2024-12-14,Webcam,Camila Vega,Poniente,4,55000,220000
+2024-12-15,Auriculares,Paula Mena,Norte,3,68000,204000
+2024-12-16,Auriculares,Valeria Rios,Poniente,3,68000,204000
+2024-12-17,Webcam,Valeria Rios,Centro,3,55000,165000
+2024-12-18,Mouse,Matias Soto,Sur,1,22000,22000
+2024-12-19,Mouse,Valeria Rios,Centro,4,22000,88000
+2024-12-20,Disco SSD,Camila Vega,Oriente,4,75000,300000
+2024-12-21,Mouse,Camila Vega,Poniente,5,22000,110000
+2024-12-22,Monitor,Valeria Rios,Poniente,5,290000,1450000
+2024-12-23,Mouse,Valeria Rios,Poniente,5,22000,110000
+2024-12-24,Teclado,Matias Soto,Centro,3,45000,135000
+2024-12-25,Disco SSD,Valeria Rios,Oriente,4,75000,300000
+2024-12-26,Laptop,Matias Soto,Sur,3,850000,2550000
+2024-12-27,Mouse,Matias Soto,Sur,1,22000,22000
+2024-12-28,Webcam,Valeria Rios,Centro,5,55000,275000
+2024-12-29,Laptop,Diego Parra,Poniente,3,850000,2550000
+2024-12-30,Monitor,Diego Parra,Norte,3,290000,870000
+2024-12-31,Webcam,Matias Soto,Centro,1,55000,55000
+2025-12-01,Laptop,,Centro,2,850000,1700000
+2025-12-02,Webcam,Diego Parra,Oriente,4,55000,220000
+2025-12-03,Monitor,Valeria Rios,Sur,2,290000,580000
+2025-12-04,Disco SSD,Valeria Rios,Centro,5,75000,375000
+2025-12-05,Teclado,Valeria Rios,Centro,3,45000,135000
+2025-12-06,Monitor,Paula Mena,Poniente,1,290000,290000
+2025-12-07,Monitor,Valeria Rios,Poniente,1,290000,290000
+2025-12-08,Webcam,Paula Mena,Norte,4,55000,220000
+2025-12-09,Disco SSD,Matias Soto,Oriente,2,75000,150000
+2025-12-10,Hub USB,Diego Parra,Norte,4,18000,72000
+2025-12-11,Auriculares,Diego Parra,Poniente,3,68000,204000
+2025-12-12,Mouse,Diego Parra,Sur,4,22000,88000
+2025-12-13,Mouse,Diego Parra,Poniente,1,22000,22000
+2025-12-14,Teclado,Diego Parra,Oriente,1,45000,45000
+2025-12-15,Teclado,,Poniente,5,45000,225000
+2025-12-16,Mouse,Diego Parra,Oriente,5,22000,110000
+2025-12-17,Auriculares,Matias Soto,Oriente,3,68000,204000
+2025-12-18,Mouse,Valeria Rios,Oriente,2,22000,44000
+2025-12-19,Hub USB,Camila Vega,Oriente,4,18000,72000
+2025-12-20,Auriculares,Paula Mena,Oriente,3,68000,204000
+2025-12-21,Teclado,Camila Vega,Sur,5,45000,225000
+2025-12-22,Laptop,Camila Vega,Norte,4,850000,3400000
+2025-12-23,Webcam,Valeria Rios,Centro,5,55000,275000
+2025-12-24,Hub USB,Valeria Rios,Norte,4,18000,72000
+2025-12-25,Hub USB,Valeria Rios,Oriente,2,18000,36000
+2025-12-26,Disco SSD,Diego Parra,Sur,3,75000,225000
+2025-12-27,Teclado,Matias Soto,Poniente,4,45000,180000
+2025-12-28,Teclado,Diego Parra,Sur,1,45000,45000
+2025-12-29,Monitor,Matias Soto,Oriente,1,290000,290000
+2025-12-30,Hub USB,Matias Soto,Sur,4,18000,72000
+2025-12-31,Monitor,Camila Vega,Sur,4,290000,1160000

@@ -1,0 +1,32 @@
+fecha,producto,vendedor,region,cantidad,precio_unitario,total
+2024-07-01,Teclado,Camila Vega,Sur,2,45000,90000
+2024-07-02,Teclado,Valeria Rios,Poniente,1,45000,45000
+2024-07-03,Hub USB,Diego Parra,Sur,4,18000,72000
+2024-07-04,Disco SSD,Camila Vega,Oriente,3,75000,225000
+2024-07-05,Laptop,Diego Parra,Norte,2,850000,1700000
+2024-07-06,Hub USB,Camila Vega,Poniente,1,18000,18000
+2024-07-07,Auriculares,Paula Mena,Norte,5,68000,340000
+2024-07-08,Mouse,Matias Soto,Norte,4,22000,88000
+2024-07-09,Monitor,Paula Mena,Norte,2,290000,580000
+2024-07-10,Hub USB,Diego Parra,Centro,2,18000,36000
+2024-07-11,Laptop,Matias Soto,Centro,3,850000,2550000
+2024-07-12,Laptop,Camila Vega,Norte,3,850000,2550000
+2024-07-13,Hub USB,Matias Soto,Poniente,5,18000,90000
+2024-07-14,Webcam,Valeria Rios,Oriente,5,55000,275000
+2024-07-15,Monitor,Matias Soto,Oriente,1,290000,290000
+2024-07-16,Webcam,Valeria Rios,Sur,1,55000,55000
+2024-07-17,Mouse,,Poniente,5,22000,110000
+2024-07-18,Laptop,Valeria Rios,Centro,5,850000,4250000
+2024-07-19,Laptop,Diego Parra,Norte,4,850000,3400000
+2024-07-20,Auriculares,Paula Mena,Sur,3,68000,204000
+2024-07-21,Mouse,Camila Vega,Oriente,1,22000,22000
+2024-07-22,Laptop,Matias Soto,Centro,3,850000,2550000
+2024-07-23,Mouse,Paula Mena,Centro,3,22000,66000
+2024-07-24,Monitor,Camila Vega,Norte,5,290000,1450000
+2024-07-25,Teclado,Camila Vega,Oriente,4,45000,180000
+2024-07-26,Laptop,Valeria Rios,Poniente,2,850000,1700000
+2024-07-27,Auriculares,Diego Parra,Centro,4,68000,272000
+2024-07-28,Monitor,Diego Parra,Norte,4,290000,1160000
+2024-07-29,Hub USB,Paula Mena,Poniente,3,18000,54000
+2024-07-30,Mouse,Diego Parra,Oriente,4,22000,88000
+2024-07-31,Hub USB,Matias Soto,Centro,1,18000,18000

@@ -1,0 +1,32 @@
+fecha,producto,vendedor,region,cantidad,precio_unitario,total
+2024-01-01,Hub USB,Matias Soto,Poniente,1,18000,18000
+2024-01-02,Mouse,Matias Soto,Norte,4,22000,88000
+2024-01-03,Auriculares,Matias Soto,Poniente,2,68000,136000
+2024-01-04,Hub USB,Matias Soto,Poniente,5,18000,90000
+2024-01-05,Teclado,Paula Mena,Norte,4,45000,180000
+2024-01-06,Disco SSD,,Norte,1,75000,75000
+2024-01-07,Auriculares,Valeria Rios,Norte,1,68000,68000
+2024-01-08,Auriculares,Matias Soto,Norte,3,68000,204000
+2024-01-09,Hub USB,Diego Parra,Oriente,3,18000,54000
+2024-01-10,Monitor,Matias Soto,Centro,2,290000,580000
+2024-01-11,Teclado,Diego Parra,Centro,4,45000,180000
+2024-01-12,Hub USB,Diego Parra,Norte,4,18000,72000
+2024-01-13,Teclado,Matias Soto,Centro,3,45000,135000
+2024-01-14,Teclado,Paula Mena,Centro,4,45000,180000
+2024-01-15,Disco SSD,Diego Parra,Norte,4,75000,300000
+2024-01-16,Auriculares,Diego Parra,Centro,1,68000,68000
+2024-01-17,Mouse,Matias Soto,Poniente,3,22000,66000
+2024-01-18,Disco SSD,Diego Parra,Sur,5,75000,375000
+2024-01-19,Disco SSD,Diego Parra,Sur,3,75000,225000
+2024-01-20,Teclado,Matias Soto,Norte,5,45000,225000
+2024-01-21,Webcam,Matias Soto,Oriente,1,55000,55000
+2024-01-22,Auriculares,Valeria Rios,Norte,2,68000,136000
+2024-01-23,Monitor,Paula Mena,Oriente,4,290000,1160000
+2024-01-24,Disco SSD,Paula Mena,Sur,1,75000,75000
+2024-01-25,Mouse,Diego Parra,Norte,4,22000,88000
+2024-01-26,Webcam,Paula Mena,Poniente,2,55000,110000
+2024-01-27,Webcam,Diego Parra,Centro,2,55000,110000
+2024-01-28,Monitor,Valeria Rios,Oriente,1,290000,290000
+2024-01-29,Disco SSD,Matias Soto,Centro,2,75000,150000
+2024-01-30,Mouse,Matias Soto,Centro,5,22000,110000
+2024-01-31,Auriculares,Matias Soto,Norte,2,68000,136000

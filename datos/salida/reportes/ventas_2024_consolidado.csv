@@ -1,0 +1,398 @@
+fecha,producto,vendedor,region,cantidad,precio_unitario,total,mes
+2024-04-01,Monitor,Camila Vega,Oriente,2,290000,580000,abril
+2024-04-02,Disco SSD,Valeria Rios,Norte,2,75000,150000,abril
+2024-04-03,Teclado,Valeria Rios,Poniente,5,45000,225000,abril
+2024-04-04,Auriculares,Diego Parra,Poniente,4,68000,272000,abril
+2024-04-05,Webcam,Camila Vega,Norte,2,55000,110000,abril
+2024-04-06,Laptop,Matias Soto,Oriente,4,850000,3400000,abril
+2024-04-07,Auriculares,Paula Mena,Sur,2,68000,136000,abril
+2024-04-08,Webcam,Paula Mena,Poniente,2,55000,110000,abril
+2024-04-09,Mouse,Matias Soto,Norte,3,22000,66000,abril
+2024-04-10,Auriculares,Diego Parra,Centro,2,68000,136000,abril
+2024-04-11,Hub USB,Paula Mena,Norte,1,18000,18000,abril
+2024-04-12,Laptop,Camila Vega,Centro,5,850000,4250000,abril
+2024-04-13,Webcam,Diego Parra,Oriente,5,55000,275000,abril
+2024-04-14,Webcam,Camila Vega,Sur,4,55000,220000,abril
+2024-04-15,Webcam,Valeria Rios,Norte,2,55000,110000,abril
+2024-04-16,Mouse,Diego Parra,Poniente,1,22000,22000,abril
+2024-04-17,Auriculares,,Oriente,4,68000,272000,abril
+2024-04-18,Mouse,Diego Parra,Norte,3,22000,66000,abril
+2024-04-19,Disco SSD,Diego Parra,Poniente,4,75000,300000,abril
+2024-04-20,Monitor,Diego Parra,Norte,4,290000,1160000,abril
+2024-04-21,Monitor,Diego Parra,Centro,2,290000,580000,abril
+2024-04-22,Disco SSD,Camila Vega,Norte,3,75000,225000,abril
+2024-04-23,Auriculares,Valeria Rios,Norte,4,68000,272000,abril
+2024-04-24,Hub USB,Matias Soto,Norte,1,18000,18000,abril
+2024-04-25,Mouse,Diego Parra,Oriente,1,22000,22000,abril
+2024-04-26,Laptop,Paula Mena,Norte,5,850000,4250000,abril
+2024-04-27,Webcam,Diego Parra,Poniente,3,55000,165000,abril
+2024-04-28,Webcam,Paula Mena,Centro,3,55000,165000,abril
+2024-04-29,Auriculares,Camila Vega,Centro,5,68000,340000,abril
+2024-04-30,Hub USB,Paula Mena,Norte,4,18000,72000,abril
+2024-08-01,Teclado,Matias Soto,Poniente,2,45000,90000,agosto
+2024-08-02,Webcam,Diego Parra,Norte,2,55000,110000,agosto
+2024-08-03,Webcam,Paula Mena,Poniente,5,55000,275000,agosto
+2024-08-04,Teclado,Diego Parra,Norte,3,45000,135000,agosto
+2024-08-05,Hub USB,Valeria Rios,Sur,2,18000,36000,agosto
+2024-08-06,Teclado,Valeria Rios,Oriente,1,45000,45000,agosto
+2024-08-07,Disco SSD,Matias Soto,Norte,5,75000,375000,agosto
+2024-08-08,Monitor,Camila Vega,Poniente,4,290000,1160000,agosto
+2024-08-09,Disco SSD,Matias Soto,Sur,5,75000,375000,agosto
+2024-08-10,Mouse,Matias Soto,Norte,4,22000,88000,agosto
+2024-08-11,Hub USB,Matias Soto,Centro,5,18000,90000,agosto
+2024-08-12,Hub USB,Matias Soto,Oriente,5,18000,90000,agosto
+2024-08-13,Auriculares,Paula Mena,Norte,5,68000,340000,agosto
+2024-08-14,Laptop,Paula Mena,Sur,4,850000,3400000,agosto
+2024-08-15,Mouse,Diego Parra,Centro,4,22000,88000,agosto
+2024-08-16,Webcam,Valeria Rios,Sur,5,55000,275000,agosto
+2024-08-17,Hub USB,Matias Soto,Sur,2,18000,36000,agosto
+2024-08-18,Teclado,Diego Parra,Centro,3,45000,135000,agosto
+2024-08-19,Mouse,Valeria Rios,Sur,3,22000,66000,agosto
+2024-08-20,Auriculares,Camila Vega,Centro,3,68000,204000,agosto
+2024-08-21,Webcam,Paula Mena,Norte,4,55000,220000,agosto
+2024-08-22,Laptop,Valeria Rios,Centro,4,850000,3400000,agosto
+2024-08-23,Laptop,Camila Vega,Centro,2,850000,1700000,agosto
+2024-08-24,Auriculares,Valeria Rios,Oriente,3,68000,204000,agosto
+2024-08-25,Auriculares,Paula Mena,Centro,3,68000,204000,agosto
+2024-08-26,Teclado,Paula Mena,Centro,5,45000,225000,agosto
+2024-08-27,Hub USB,Diego Parra,Norte,4,18000,72000,agosto
+2024-08-28,Laptop,,Oriente,3,850000,2550000,agosto
+2024-08-29,Webcam,Valeria Rios,Poniente,2,55000,110000,agosto
+2024-08-30,Mouse,Valeria Rios,Norte,2,22000,44000,agosto
+2024-08-31,Webcam,Camila Vega,Norte,3,55000,165000,agosto
+2024-12-01,Disco SSD,Matias Soto,Centro,2,75000,150000,diciembre
+2024-12-02,Webcam,Valeria Rios,Oriente,2,55000,110000,diciembre
+2024-12-03,Teclado,Valeria Rios,Oriente,5,45000,225000,diciembre
+2024-12-04,Webcam,Matias Soto,Sur,4,55000,220000,diciembre
+2024-12-05,Hub USB,Paula Mena,Sur,1,18000,18000,diciembre
+2024-12-06,Monitor,Paula Mena,Centro,3,290000,870000,diciembre
+2024-12-07,Laptop,Diego Parra,Norte,5,850000,4250000,diciembre
+2024-12-08,Disco SSD,Camila Vega,Oriente,1,75000,75000,diciembre
+2024-12-09,Monitor,Paula Mena,Sur,5,290000,1450000,diciembre
+2024-12-10,Hub USB,Valeria Rios,Centro,5,18000,90000,diciembre
+2024-12-11,Mouse,Paula Mena,Sur,3,22000,66000,diciembre
+2024-12-12,Mouse,Diego Parra,Oriente,4,22000,88000,diciembre
+2024-12-13,Hub USB,Diego Parra,Oriente,2,18000,36000,diciembre
+2024-12-14,Webcam,Camila Vega,Poniente,4,55000,220000,diciembre
+2024-12-15,Auriculares,Paula Mena,Norte,3,68000,204000,diciembre
+2024-12-16,Auriculares,Valeria Rios,Poniente,3,68000,204000,diciembre
+2024-12-17,Webcam,Valeria Rios,Centro,3,55000,165000,diciembre
+2024-12-18,Mouse,Matias Soto,Sur,1,22000,22000,diciembre
+2024-12-19,Mouse,Valeria Rios,Centro,4,22000,88000,diciembre
+2024-12-20,Disco SSD,Camila Vega,Oriente,4,75000,300000,diciembre
+2024-12-21,Mouse,Camila Vega,Poniente,5,22000,110000,diciembre
+2024-12-22,Monitor,Valeria Rios,Poniente,5,290000,1450000,diciembre
+2024-12-23,Mouse,Valeria Rios,Poniente,5,22000,110000,diciembre
+2024-12-24,Teclado,Matias Soto,Centro,3,45000,135000,diciembre
+2024-12-25,Disco SSD,Valeria Rios,Oriente,4,75000,300000,diciembre
+2024-12-26,Laptop,Matias Soto,Sur,3,850000,2550000,diciembre
+2024-12-27,Mouse,Matias Soto,Sur,1,22000,22000,diciembre
+2024-12-28,Webcam,Valeria Rios,Centro,5,55000,275000,diciembre
+2024-12-29,Laptop,Diego Parra,Poniente,3,850000,2550000,diciembre
+2024-12-30,Monitor,Diego Parra,Norte,3,290000,870000,diciembre
+2024-12-31,Webcam,Matias Soto,Centro,1,55000,55000,diciembre
+2025-12-01,Laptop,,Centro,2,850000,1700000,diciembre
+2025-12-02,Webcam,Diego Parra,Oriente,4,55000,220000,diciembre
+2025-12-03,Monitor,Valeria Rios,Sur,2,290000,580000,diciembre
+2025-12-04,Disco SSD,Valeria Rios,Centro,5,75000,375000,diciembre
+2025-12-05,Teclado,Valeria Rios,Centro,3,45000,135000,diciembre
+2025-12-06,Monitor,Paula Mena,Poniente,1,290000,290000,diciembre
+2025-12-07,Monitor,Valeria Rios,Poniente,1,290000,290000,diciembre
+2025-12-08,Webcam,Paula Mena,Norte,4,55000,220000,diciembre
+2025-12-09,Disco SSD,Matias Soto,Oriente,2,75000,150000,diciembre
+2025-12-10,Hub USB,Diego Parra,Norte,4,18000,72000,diciembre
+2025-12-11,Auriculares,Diego Parra,Poniente,3,68000,204000,diciembre
+2025-12-12,Mouse,Diego Parra,Sur,4,22000,88000,diciembre
+2025-12-13,Mouse,Diego Parra,Poniente,1,22000,22000,diciembre
+2025-12-14,Teclado,Diego Parra,Oriente,1,45000,45000,diciembre
+2025-12-15,Teclado,,Poniente,5,45000,225000,diciembre
+2025-12-16,Mouse,Diego Parra,Oriente,5,22000,110000,diciembre
+2025-12-17,Auriculares,Matias Soto,Oriente,3,68000,204000,diciembre
+2025-12-18,Mouse,Valeria Rios,Oriente,2,22000,44000,diciembre
+2025-12-19,Hub USB,Camila Vega,Oriente,4,18000,72000,diciembre
+2025-12-20,Auriculares,Paula Mena,Oriente,3,68000,204000,diciembre
+2025-12-21,Teclado,Camila Vega,Sur,5,45000,225000,diciembre
+2025-12-22,Laptop,Camila Vega,Norte,4,850000,3400000,diciembre
+2025-12-23,Webcam,Valeria Rios,Centro,5,55000,275000,diciembre
+2025-12-24,Hub USB,Valeria Rios,Norte,4,18000,72000,diciembre
+2025-12-25,Hub USB,Valeria Rios,Oriente,2,18000,36000,diciembre
+2025-12-26,Disco SSD,Diego Parra,Sur,3,75000,225000,diciembre
+2025-12-27,Teclado,Matias Soto,Poniente,4,45000,180000,diciembre
+2025-12-28,Teclado,Diego Parra,Sur,1,45000,45000,diciembre
+2025-12-29,Monitor,Matias Soto,Oriente,1,290000,290000,diciembre
+2025-12-30,Hub USB,Matias Soto,Sur,4,18000,72000,diciembre
+2025-12-31,Monitor,Camila Vega,Sur,4,290000,1160000,diciembre
+2024-01-01,Hub USB,Matias Soto,Poniente,1,18000,18000,enero
+2024-01-02,Mouse,Matias Soto,Norte,4,22000,88000,enero
+2024-01-03,Auriculares,Matias Soto,Poniente,2,68000,136000,enero
+2024-01-04,Hub USB,Matias Soto,Poniente,5,18000,90000,enero
+2024-01-05,Teclado,Paula Mena,Norte,4,45000,180000,enero
+2024-01-06,Disco SSD,,Norte,1,75000,75000,enero
+2024-01-07,Auriculares,Valeria Rios,Norte,1,68000,68000,enero
+2024-01-08,Auriculares,Matias Soto,Norte,3,68000,204000,enero
+2024-01-09,Hub USB,Diego Parra,Oriente,3,18000,54000,enero
+2024-01-10,Monitor,Matias Soto,Centro,2,290000,580000,enero
+2024-01-11,Teclado,Diego Parra,Centro,4,45000,180000,enero
+2024-01-12,Hub USB,Diego Parra,Norte,4,18000,72000,enero
+2024-01-13,Teclado,Matias Soto,Centro,3,45000,135000,enero
+2024-01-14,Teclado,Paula Mena,Centro,4,45000,180000,enero
+2024-01-15,Disco SSD,Diego Parra,Norte,4,75000,300000,enero
+2024-01-16,Auriculares,Diego Parra,Centro,1,68000,68000,enero
+2024-01-17,Mouse,Matias Soto,Poniente,3,22000,66000,enero
+2024-01-18,Disco SSD,Diego Parra,Sur,5,75000,375000,enero
+2024-01-19,Disco SSD,Diego Parra,Sur,3,75000,225000,enero
+2024-01-20,Teclado,Matias Soto,Norte,5,45000,225000,enero
+2024-01-21,Webcam,Matias Soto,Oriente,1,55000,55000,enero
+2024-01-22,Auriculares,Valeria Rios,Norte,2,68000,136000,enero
+2024-01-23,Monitor,Paula Mena,Oriente,4,290000,1160000,enero
+2024-01-24,Disco SSD,Paula Mena,Sur,1,75000,75000,enero
+2024-01-25,Mouse,Diego Parra,Norte,4,22000,88000,enero
+2024-01-26,Webcam,Paula Mena,Poniente,2,55000,110000,enero
+2024-01-27,Webcam,Diego Parra,Centro,2,55000,110000,enero
+2024-01-28,Monitor,Valeria Rios,Oriente,1,290000,290000,enero
+2024-01-29,Disco SSD,Matias Soto,Centro,2,75000,150000,enero
+2024-01-30,Mouse,Matias Soto,Centro,5,22000,110000,enero
+2024-01-31,Auriculares,Matias Soto,Norte,2,68000,136000,enero
+2024-02-01,Hub USB,Valeria Rios,Oriente,1,18000,18000,febrero
+2024-02-02,Teclado,Diego Parra,Centro,3,45000,135000,febrero
+2024-02-03,Teclado,Diego Parra,Sur,1,45000,45000,febrero
+2024-02-04,Webcam,Matias Soto,Centro,4,55000,220000,febrero
+2024-02-05,Mouse,Paula Mena,Centro,5,22000,110000,febrero
+2024-02-06,Monitor,Valeria Rios,Oriente,1,290000,290000,febrero
+2024-02-07,Monitor,Valeria Rios,Oriente,3,290000,870000,febrero
+2024-02-08,Auriculares,Camila Vega,Norte,3,68000,204000,febrero
+2024-02-09,Webcam,Diego Parra,Norte,1,55000,55000,febrero
+2024-02-10,Laptop,,Sur,5,850000,4250000,febrero
+2024-02-11,Auriculares,Matias Soto,Norte,1,68000,68000,febrero
+2024-02-12,Webcam,Diego Parra,Centro,3,55000,165000,febrero
+2024-02-13,Mouse,Matias Soto,Oriente,2,22000,44000,febrero
+2024-02-14,Mouse,Camila Vega,Norte,4,22000,88000,febrero
+2024-02-15,Mouse,Camila Vega,Norte,3,22000,66000,febrero
+2024-02-16,Mouse,Valeria Rios,Sur,1,22000,22000,febrero
+2024-02-17,Mouse,Paula Mena,Sur,4,22000,88000,febrero
+2024-02-18,Webcam,Matias Soto,Centro,1,55000,55000,febrero
+2024-02-19,Webcam,Diego Parra,Oriente,1,55000,55000,febrero
+2024-02-20,Teclado,Camila Vega,Sur,2,45000,90000,febrero
+2024-02-21,Disco SSD,Valeria Rios,Norte,4,75000,300000,febrero
+2024-02-22,Monitor,Valeria Rios,Oriente,4,290000,1160000,febrero
+2024-02-23,Hub USB,Matias Soto,Oriente,2,18000,36000,febrero
+2024-02-24,Mouse,Camila Vega,Norte,3,22000,66000,febrero
+2024-02-25,Laptop,Paula Mena,Sur,1,850000,850000,febrero
+2024-02-26,Hub USB,Camila Vega,Norte,5,18000,90000,febrero
+2024-02-27,Webcam,Matias Soto,Oriente,1,55000,55000,febrero
+2024-02-28,Laptop,Matias Soto,Poniente,1,850000,850000,febrero
+2024-02-29,Laptop,Camila Vega,Poniente,3,850000,2550000,febrero
+2024-07-01,Teclado,Camila Vega,Sur,2,45000,90000,julio
+2024-07-02,Teclado,Valeria Rios,Poniente,1,45000,45000,julio
+2024-07-03,Hub USB,Diego Parra,Sur,4,18000,72000,julio
+2024-07-04,Disco SSD,Camila Vega,Oriente,3,75000,225000,julio
+2024-07-05,Laptop,Diego Parra,Norte,2,850000,1700000,julio
+2024-07-06,Hub USB,Camila Vega,Poniente,1,18000,18000,julio
+2024-07-07,Auriculares,Paula Mena,Norte,5,68000,340000,julio
+2024-07-08,Mouse,Matias Soto,Norte,4,22000,88000,julio
+2024-07-09,Monitor,Paula Mena,Norte,2,290000,580000,julio
+2024-07-10,Hub USB,Diego Parra,Centro,2,18000,36000,julio
+2024-07-11,Laptop,Matias Soto,Centro,3,850000,2550000,julio
+2024-07-12,Laptop,Camila Vega,Norte,3,850000,2550000,julio
+2024-07-13,Hub USB,Matias Soto,Poniente,5,18000,90000,julio
+2024-07-14,Webcam,Valeria Rios,Oriente,5,55000,275000,julio
+2024-07-15,Monitor,Matias Soto,Oriente,1,290000,290000,julio
+2024-07-16,Webcam,Valeria Rios,Sur,1,55000,55000,julio
+2024-07-17,Mouse,,Poniente,5,22000,110000,julio
+2024-07-18,Laptop,Valeria Rios,Centro,5,850000,4250000,julio
+2024-07-19,Laptop,Diego Parra,Norte,4,850000,3400000,julio
+2024-07-20,Auriculares,Paula Mena,Sur,3,68000,204000,julio
+2024-07-21,Mouse,Camila Vega,Oriente,1,22000,22000,julio
+2024-07-22,Laptop,Matias Soto,Centro,3,850000,2550000,julio
+2024-07-23,Mouse,Paula Mena,Centro,3,22000,66000,julio
+2024-07-24,Monitor,Camila Vega,Norte,5,290000,1450000,julio
+2024-07-25,Teclado,Camila Vega,Oriente,4,45000,180000,julio
+2024-07-26,Laptop,Valeria Rios,Poniente,2,850000,1700000,julio
+2024-07-27,Auriculares,Diego Parra,Centro,4,68000,272000,julio
+2024-07-28,Monitor,Diego Parra,Norte,4,290000,1160000,julio
+2024-07-29,Hub USB,Paula Mena,Poniente,3,18000,54000,julio
+2024-07-30,Mouse,Diego Parra,Oriente,4,22000,88000,julio
+2024-07-31,Hub USB,Matias Soto,Centro,1,18000,18000,julio
+2024-06-01,Mouse,Valeria Rios,Centro,2,22000,44000,junio
+2024-06-02,Laptop,Matias Soto,Poniente,4,850000,3400000,junio
+2024-06-03,Auriculares,Diego Parra,Sur,2,68000,136000,junio
+2024-06-04,Hub USB,Camila Vega,Poniente,2,18000,36000,junio
+2024-06-05,Auriculares,Valeria Rios,Sur,2,68000,136000,junio
+2024-06-06,Webcam,Paula Mena,Centro,3,55000,165000,junio
+2024-06-07,Teclado,Paula Mena,Centro,3,45000,135000,junio
+2024-06-08,Auriculares,Matias Soto,Poniente,2,68000,136000,junio
+2024-06-09,Hub USB,Diego Parra,Poniente,4,18000,72000,junio
+2024-06-10,Auriculares,Valeria Rios,Sur,1,68000,68000,junio
+2024-06-11,Auriculares,Diego Parra,Oriente,4,68000,272000,junio
+2024-06-12,Auriculares,Valeria Rios,Sur,5,68000,340000,junio
+2024-06-13,Monitor,Matias Soto,Poniente,3,290000,870000,junio
+2024-06-14,Monitor,Matias Soto,Poniente,1,290000,290000,junio
+2024-06-15,Teclado,Paula Mena,Norte,1,45000,45000,junio
+2024-06-16,Laptop,Diego Parra,Poniente,5,850000,4250000,junio
+2024-06-17,Auriculares,Paula Mena,Norte,5,68000,340000,junio
+2024-06-18,Webcam,Diego Parra,Oriente,2,55000,110000,junio
+2024-06-19,Laptop,Paula Mena,Sur,3,850000,2550000,junio
+2024-06-20,Webcam,Camila Vega,Sur,3,55000,165000,junio
+2024-06-21,Laptop,Camila Vega,Norte,4,850000,3400000,junio
+2024-06-22,Teclado,Camila Vega,Sur,2,45000,90000,junio
+2024-06-23,Auriculares,Camila Vega,Poniente,2,68000,136000,junio
+2024-06-24,Auriculares,Valeria Rios,Centro,2,68000,136000,junio
+2024-06-25,Mouse,Camila Vega,Norte,2,22000,44000,junio
+2024-06-26,Webcam,Matias Soto,Sur,3,55000,165000,junio
+2024-06-27,Laptop,,Norte,3,850000,2550000,junio
+2024-06-28,Laptop,Valeria Rios,Norte,2,850000,1700000,junio
+2024-06-29,Disco SSD,Camila Vega,Centro,4,75000,300000,junio
+2024-06-30,Disco SSD,Camila Vega,Poniente,1,75000,75000,junio
+2024-03-01,Disco SSD,Paula Mena,Oriente,3,75000,225000,marzo
+2024-03-02,Auriculares,Paula Mena,Norte,3,68000,204000,marzo
+2024-03-03,Laptop,Valeria Rios,Oriente,3,850000,2550000,marzo
+2024-03-04,Mouse,Camila Vega,Centro,2,22000,44000,marzo
+2024-03-05,Laptop,Diego Parra,Oriente,5,850000,4250000,marzo
+2024-03-06,Mouse,Valeria Rios,Sur,1,22000,22000,marzo
+2024-03-07,Laptop,Diego Parra,Sur,4,850000,3400000,marzo
+2024-03-08,Webcam,Diego Parra,Centro,1,55000,55000,marzo
+2024-03-09,Auriculares,Camila Vega,Norte,5,68000,340000,marzo
+2024-03-10,Disco SSD,Diego Parra,Sur,4,75000,300000,marzo
+2024-03-11,Mouse,Diego Parra,Poniente,5,22000,110000,marzo
+2024-03-12,Disco SSD,Camila Vega,Sur,3,75000,225000,marzo
+2024-03-13,Disco SSD,Diego Parra,Sur,4,75000,300000,marzo
+2024-03-14,Disco SSD,Diego Parra,Norte,3,75000,225000,marzo
+2024-03-15,Hub USB,Diego Parra,Oriente,1,18000,18000,marzo
+2024-03-16,Teclado,Valeria Rios,Sur,1,45000,45000,marzo
+2024-03-17,Laptop,Valeria Rios,Centro,4,850000,3400000,marzo
+2024-03-18,Disco SSD,Valeria Rios,Oriente,4,75000,300000,marzo
+2024-03-19,Laptop,Camila Vega,Poniente,5,850000,4250000,marzo
+2024-03-20,Disco SSD,Paula Mena,Norte,5,75000,375000,marzo
+2024-03-21,Mouse,Diego Parra,Poniente,3,22000,66000,marzo
+2024-03-22,Teclado,Diego Parra,Oriente,4,45000,180000,marzo
+2024-03-23,Teclado,Camila Vega,Oriente,1,45000,45000,marzo
+2024-03-24,Webcam,Diego Parra,Oriente,5,55000,275000,marzo
+2024-03-25,Hub USB,Valeria Rios,Poniente,5,18000,90000,marzo
+2024-03-26,Webcam,Paula Mena,Oriente,1,55000,55000,marzo
+2024-03-27,Webcam,Matias Soto,Poniente,5,55000,275000,marzo
+2024-03-28,Webcam,Diego Parra,Oriente,3,55000,165000,marzo
+2024-03-29,Webcam,,Centro,4,55000,220000,marzo
+2024-03-30,Webcam,Matias Soto,Oriente,1,55000,55000,marzo
+2024-03-31,Auriculares,Paula Mena,Poniente,4,68000,272000,marzo
+2024-05-01,Webcam,Matias Soto,Sur,5,55000,275000,mayo
+2024-05-02,Hub USB,Valeria Rios,Oriente,3,18000,54000,mayo
+2024-05-03,Monitor,Matias Soto,Oriente,5,290000,1450000,mayo
+2024-05-04,Auriculares,,Poniente,1,68000,68000,mayo
+2024-05-05,Teclado,Valeria Rios,Sur,4,45000,180000,mayo
+2024-05-06,Hub USB,Valeria Rios,Oriente,1,18000,18000,mayo
+2024-05-07,Auriculares,Paula Mena,Oriente,1,68000,68000,mayo
+2024-05-08,Teclado,Diego Parra,Sur,5,45000,225000,mayo
+2024-05-09,Teclado,Matias Soto,Sur,4,45000,180000,mayo
+2024-05-10,Monitor,Paula Mena,Oriente,4,290000,1160000,mayo
+2024-05-11,Hub USB,Paula Mena,Sur,4,18000,72000,mayo
+2024-05-12,Mouse,Paula Mena,Oriente,3,22000,66000,mayo
+2024-05-13,Laptop,Paula Mena,Oriente,5,850000,4250000,mayo
+2024-05-14,Monitor,Paula Mena,Poniente,4,290000,1160000,mayo
+2024-05-15,Monitor,Camila Vega,Norte,3,290000,870000,mayo
+2024-05-16,Mouse,Matias Soto,Oriente,2,22000,44000,mayo
+2024-05-17,Laptop,Paula Mena,Centro,2,850000,1700000,mayo
+2024-05-18,Auriculares,Matias Soto,Norte,3,68000,204000,mayo
+2024-05-19,Webcam,Camila Vega,Norte,3,55000,165000,mayo
+2024-05-20,Hub USB,Camila Vega,Norte,5,18000,90000,mayo
+2024-05-21,Webcam,Matias Soto,Poniente,5,55000,275000,mayo
+2024-05-22,Auriculares,Valeria Rios,Oriente,2,68000,136000,mayo
+2024-05-23,Disco SSD,Diego Parra,Poniente,4,75000,300000,mayo
+2024-05-24,Monitor,Valeria Rios,Oriente,2,290000,580000,mayo
+2024-05-25,Laptop,Valeria Rios,Poniente,4,850000,3400000,mayo
+2024-05-26,Monitor,Valeria Rios,Poniente,4,290000,1160000,mayo
+2024-05-27,Teclado,Paula Mena,Centro,5,45000,225000,mayo
+2024-05-28,Monitor,Camila Vega,Poniente,1,290000,290000,mayo
+2024-05-29,Monitor,Valeria Rios,Sur,1,290000,290000,mayo
+2024-05-30,Auriculares,Camila Vega,Centro,3,68000,204000,mayo
+2024-05-31,Auriculares,Matias Soto,Poniente,5,68000,340000,mayo
+2024-11-01,Laptop,Camila Vega,Sur,4,850000,3400000,noviembre
+2024-11-02,Hub USB,Paula Mena,Poniente,5,18000,90000,noviembre
+2024-11-03,Laptop,Paula Mena,Oriente,5,850000,4250000,noviembre
+2024-11-04,Laptop,Valeria Rios,Poniente,3,850000,2550000,noviembre
+2024-11-05,Disco SSD,Valeria Rios,Oriente,5,75000,375000,noviembre
+2024-11-06,Mouse,Matias Soto,Poniente,2,22000,44000,noviembre
+2024-11-07,Mouse,Paula Mena,Poniente,3,22000,66000,noviembre
+2024-11-08,Teclado,Diego Parra,Norte,2,45000,90000,noviembre
+2024-11-09,Monitor,Camila Vega,Sur,1,290000,290000,noviembre
+2024-11-10,Auriculares,Valeria Rios,Poniente,2,68000,136000,noviembre
+2024-11-11,Auriculares,Camila Vega,Poniente,1,68000,68000,noviembre
+2024-11-12,Auriculares,Camila Vega,Centro,1,68000,68000,noviembre
+2024-11-13,Teclado,Matias Soto,Sur,2,45000,90000,noviembre
+2024-11-14,Mouse,Paula Mena,Centro,3,22000,66000,noviembre
+2024-11-15,Webcam,Valeria Rios,Sur,5,55000,275000,noviembre
+2024-11-16,Hub USB,Camila Vega,Centro,5,18000,90000,noviembre
+2024-11-17,Disco SSD,Valeria Rios,Poniente,1,75000,75000,noviembre
+2024-11-18,Hub USB,Diego Parra,Poniente,1,18000,18000,noviembre
+2024-11-19,Webcam,Matias Soto,Norte,3,55000,165000,noviembre
+2024-11-20,Disco SSD,Diego Parra,Centro,4,75000,300000,noviembre
+2024-11-21,Teclado,Valeria Rios,Oriente,2,45000,90000,noviembre
+2024-11-22,Webcam,Valeria Rios,Norte,1,55000,55000,noviembre
+2024-11-23,Auriculares,Paula Mena,Centro,5,68000,340000,noviembre
+2024-11-24,Monitor,Camila Vega,Centro,3,290000,870000,noviembre
+2024-11-25,Laptop,Camila Vega,Norte,2,850000,1700000,noviembre
+2024-11-26,Hub USB,Diego Parra,Poniente,3,18000,54000,noviembre
+2024-11-27,Mouse,Matias Soto,Centro,2,22000,44000,noviembre
+2024-11-28,Mouse,,Poniente,2,22000,44000,noviembre
+2024-11-29,Teclado,Paula Mena,Norte,1,45000,45000,noviembre
+2024-11-30,Disco SSD,Diego Parra,Poniente,3,75000,225000,noviembre
+2024-10-01,Teclado,Diego Parra,Sur,2,45000,90000,octubre
+2024-10-02,Disco SSD,Valeria Rios,Centro,1,75000,75000,octubre
+2024-10-03,Mouse,Valeria Rios,Sur,2,22000,44000,octubre
+2024-10-04,Laptop,Matias Soto,Norte,2,850000,1700000,octubre
+2024-10-05,Teclado,Camila Vega,Centro,5,45000,225000,octubre
+2024-10-06,Hub USB,Paula Mena,Oriente,1,18000,18000,octubre
+2024-10-07,Disco SSD,Valeria Rios,Oriente,1,75000,75000,octubre
+2024-10-08,Teclado,Paula Mena,Poniente,1,45000,45000,octubre
+2024-10-09,Webcam,Valeria Rios,Sur,1,55000,55000,octubre
+2024-10-10,Monitor,Diego Parra,Centro,1,290000,290000,octubre
+2024-10-11,Hub USB,Valeria Rios,Poniente,5,18000,90000,octubre
+2024-10-12,Hub USB,Matias Soto,Centro,3,18000,54000,octubre
+2024-10-13,Disco SSD,,Sur,2,75000,150000,octubre
+2024-10-14,Webcam,Diego Parra,Oriente,1,55000,55000,octubre
+2024-10-15,Webcam,Valeria Rios,Norte,3,55000,165000,octubre
+2024-10-16,Auriculares,Paula Mena,Oriente,3,68000,204000,octubre
+2024-10-17,Disco SSD,Diego Parra,Poniente,2,75000,150000,octubre
+2024-10-18,Laptop,Diego Parra,Norte,5,850000,4250000,octubre
+2024-10-19,Monitor,Valeria Rios,Poniente,4,290000,1160000,octubre
+2024-10-20,Mouse,Diego Parra,Sur,4,22000,88000,octubre
+2024-10-21,Hub USB,Paula Mena,Norte,3,18000,54000,octubre
+2024-10-22,Mouse,Diego Parra,Poniente,2,22000,44000,octubre
+2024-10-23,Teclado,Paula Mena,Sur,4,45000,180000,octubre
+2024-10-24,Teclado,Valeria Rios,Oriente,3,45000,135000,octubre
+2024-10-25,Mouse,Camila Vega,Sur,5,22000,110000,octubre
+2024-10-26,Teclado,Diego Parra,Centro,4,45000,180000,octubre
+2024-10-27,Laptop,Camila Vega,Sur,3,850000,2550000,octubre
+2024-10-28,Webcam,Paula Mena,Sur,3,55000,165000,octubre
+2024-10-29,Teclado,Diego Parra,Centro,1,45000,45000,octubre
+2024-10-30,Auriculares,Matias Soto,Poniente,5,68000,340000,octubre
+2024-10-31,Teclado,Camila Vega,Poniente,1,45000,45000,octubre
+2024-09-01,Disco SSD,Camila Vega,Centro,2,75000,150000,septiembre
+2024-09-02,Disco SSD,Matias Soto,Norte,4,75000,300000,septiembre
+2024-09-03,Teclado,Paula Mena,Norte,1,45000,45000,septiembre
+2024-09-04,Monitor,Matias Soto,Sur,4,290000,1160000,septiembre
+2024-09-05,Laptop,Diego Parra,Poniente,2,850000,1700000,septiembre
+2024-09-06,Webcam,Diego Parra,Norte,5,55000,275000,septiembre
+2024-09-07,Teclado,Valeria Rios,Norte,1,45000,45000,septiembre
+2024-09-08,Hub USB,Paula Mena,Centro,1,18000,18000,septiembre
+2024-09-09,Monitor,Matias Soto,Oriente,3,290000,870000,septiembre
+2024-09-10,Monitor,Camila Vega,Sur,3,290000,870000,septiembre
+2024-09-11,Webcam,Diego Parra,Sur,5,55000,275000,septiembre
+2024-09-12,Mouse,Diego Parra,Poniente,1,22000,22000,septiembre
+2024-09-13,Laptop,Camila Vega,Poniente,5,850000,4250000,septiembre
+2024-09-14,Monitor,Matias Soto,Sur,3,290000,870000,septiembre
+2024-09-15,Webcam,Matias Soto,Poniente,3,55000,165000,septiembre
+2024-09-16,Webcam,Paula Mena,Centro,1,55000,55000,septiembre
+2024-09-17,Teclado,Paula Mena,Sur,4,45000,180000,septiembre
+2024-09-18,Hub USB,Valeria Rios,Poniente,2,18000,36000,septiembre
+2024-09-19,Mouse,Diego Parra,Sur,3,22000,66000,septiembre
+2024-09-20,Laptop,Paula Mena,Oriente,3,850000,2550000,septiembre
+2024-09-21,Disco SSD,Matias Soto,Norte,4,75000,300000,septiembre
+2024-09-22,Auriculares,Camila Vega,Sur,4,68000,272000,septiembre
+2024-09-23,Hub USB,Matias Soto,Norte,5,18000,90000,septiembre
+2024-09-24,Hub USB,Diego Parra,Poniente,5,18000,90000,septiembre
+2024-09-25,Teclado,Matias Soto,Norte,2,45000,90000,septiembre
+2024-09-26,Disco SSD,,Sur,2,75000,150000,septiembre
+2024-09-27,Monitor,Diego Parra,Oriente,1,290000,290000,septiembre
+2024-09-28,Monitor,Camila Vega,Poniente,5,290000,1450000,septiembre
+2024-09-29,Teclado,Valeria Rios,Sur,3,45000,135000,septiembre
+2024-09-30,Webcam,Diego Parra,Poniente,5,55000,275000,septiembre
