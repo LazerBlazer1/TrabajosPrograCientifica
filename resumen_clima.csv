@@ -1,0 +1,10 @@
+ciudad,fecha,temp_max,temp_min,temp_prom
+Antofagasta,2026-06-10,17.8,13.8,15.6
+Antofagasta,2026-06-11,18.6,14.6,16.1
+Antofagasta,2026-06-12,18.7,14.1,16.3
+Concepcion,2026-06-10,13.4,7.4,10.8
+Concepcion,2026-06-11,11.8,4.7,8.4
+Concepcion,2026-06-12,11.6,8.5,10.4
+Santiago,2026-06-10,11.5,7.1,8.9
+Santiago,2026-06-11,16.0,3.4,9.6
+Santiago,2026-06-12,19.1,10.6,13.9
